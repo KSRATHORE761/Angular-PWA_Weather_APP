@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1698769781413,
+  "index": "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/favicon.ico",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/index.html",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/main.89aed42bee4c5c2f.js",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/manifest.webmanifest",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/polyfills.d5746732257fa520.js",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/runtime.5a40ea6a18efa117.js",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/styles.6507e0fc35322572.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-128x128.png",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-144x144.png",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-152x152.png",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-192x192.png",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-384x384.png",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-512x512.png",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-72x72.png",
+        "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/index.html": "54360c39bfde950c65708f1a05ef62e20417e790",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/main.89aed42bee4c5c2f.js": "5ecc50a3a9ecc129279f38d6b6b2b58caee4947b",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/manifest.webmanifest": "64af2eb70a190e4f3944b9ecd3677a894cfa1ef0",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/polyfills.d5746732257fa520.js": "da1a88b210ff86d51824d627686199436e35bf89",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/runtime.5a40ea6a18efa117.js": "b393d9f7d907c82fa3e2ed52f845775e5fbb6f2d",
+    "https://KSRATHORE761.github.io/Angular-PWA_Weather_APP/styles.6507e0fc35322572.css": "1c428c356d3ad7dd744d877cb29ee6f7ce441188"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
